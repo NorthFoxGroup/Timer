@@ -1,16 +1,10 @@
 # Timer
 
-A new Flutter project.
+A Timer Flutter UI project.
 
-## Getting Started
+## Download [Timer App](https://github.com/NorthFoxGroup/Timer/TimerNFG.apk)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Join Our Telegram Channel [ProgHub09](http://t.me/ProgHub09)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ScreenShot Of App](https://github.com/NorthFoxGroup/Timer/blob/master/New.jpg?raw=true)
